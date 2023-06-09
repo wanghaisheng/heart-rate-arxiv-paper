@@ -1,4 +1,4 @@
-"Camera":
-  "Camera": '"Camera"OR"multi camera"OR"video"'
-"ocr":
-  "Camera": '"ocr"'
+"heart rate":
+  "heart rate": '"heart rate"'
+"HRV":
+  "hrv": '"hrv"OR"Heart rate variability"'
